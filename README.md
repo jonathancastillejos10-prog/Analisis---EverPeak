@@ -1,7 +1,7 @@
 # Análisis de Datos: Proyecto ConnectaTel 📞
 
 ## 📝 Descripción del Proyecto
-Este proyecto consiste en un análisis de datos exhaustivo para **EverPeak**, enfocado en evaluar el rendimiento del negocio, identificar tendencias clave y proponer optimizaciones estratégicas basadas en los datos estudiados durante este sprint.
+Este proyecto consiste en un análisis de datos exhaustivo para **ConnectaTel**, enfocado en evaluar el rendimiento del negocio, identificar tendencias clave y proponer optimizaciones estratégicas basadas en los datos estudiados durante este sprint.
 
 ## 📂 Estructura del Repositorio
 * 📁 `analisis-connectatel/`
