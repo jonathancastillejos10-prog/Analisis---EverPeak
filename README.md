@@ -6,8 +6,8 @@ Este proyecto consiste en un análisis de datos exhaustivo para **EverPeak**, en
 ## 📂 Estructura del Repositorio
 * 📁 `Analisis---EverPeak/`
   * 📄 `README.md` -> Documentación principal del proyecto.
-  * 📓 `EverPeak_Analysis.ipynb` -> Notebook de Jupyter con el código, gráficas y conclusiones.
-
+  * S7 Version-Estudiante-Project-ConnectaTel.ipynb -> Notebook de Jupyter con el código, gráficas y conclusiones.
+    
 ## 💻 Contenido del Notebook
 El análisis incluye las siguientes etapas:
 1. **Limpieza y Preparación de Datos:** Tratamiento de valores nulos, duplicados y conversión de tipos de datos.
