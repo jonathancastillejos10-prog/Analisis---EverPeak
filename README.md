@@ -1,10 +1,10 @@
-# Análisis de Datos: Caso EverPeak 🏔️
+# Análisis de Datos: Proyecto ConnectaTel 📞
 
 ## 📝 Descripción del Proyecto
 Este proyecto consiste en un análisis de datos exhaustivo para **EverPeak**, enfocado en evaluar el rendimiento del negocio, identificar tendencias clave y proponer optimizaciones estratégicas basadas en los datos estudiados durante este sprint.
 
 ## 📂 Estructura del Repositorio
-* 📁 `Analisis---EverPeak/`
+* 📁 `analisis-connectatel/`
   * 📄 `README.md` -> Documentación principal del proyecto.
   * S7 Version-Estudiante-Project-ConnectaTel.ipynb -> Notebook de Jupyter con el código, gráficas y conclusiones.
     
