@@ -6,13 +6,13 @@ Este proyecto consiste en un análisis de datos exhaustivo para **ConnectaTel**,
 ## 📂 Estructura del Repositorio
 * 📁 `analisis-connectatel/`
   * 📄 `README.md` -> Documentación principal del proyecto.
-  * S7 Version-Estudiante-Project-ConnectaTel.ipynb -> Notebook de Jupyter con el código, gráficas y conclusiones.
-    
+  * 📓 `S7 Version-Estudiante-Project-ConnectaTel.ipynb` -> Notebook de Jupyter con el código, gráficas y conclusiones.
+
 ## 💻 Contenido del Notebook
 El análisis incluye las siguientes etapas:
 1. **Limpieza y Preparación de Datos:** Tratamiento de valores nulos, duplicados y conversión de tipos de datos.
 2. **Análisis Exploratorio de Datos (EDA):** Identificación de patrones de comportamiento y variables críticas.
-3. **Visualización:** Creación de gráficas para entender las tendencias de EverPeak.
+3. **Visualización:** Creación de gráficas para entender las tendencias de ConnectaTel.
 4. **Conclusiones y Recomendaciones:** Propuestas estratégicas orientadas al negocio.
 
 ## 🚀 Cómo abrir este proyecto en Google Colab
