@@ -18,4 +18,4 @@ El análisis incluye las siguientes etapas:
 ## 🚀 Cómo abrir este proyecto en Google Colab
 Puedes ejecutar e interactuar con el código de este análisis de forma directa en la nube. Solo debes hacer clic en el siguiente botón:
 
-[AQUÍ_PONDREMOS_EL_BADGE_EN_EL_SIGUIENTE_PASO]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jonathancastillejos10-prog/Analisis---EverPeak/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
